@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Resources</title>
+    <link>https://mypersonalresourcesite.com/</link>
+    <description>Recent content on My Personal Resources</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 21:56:21 -0700</lastBuildDate>
+    <atom:link href="https://mypersonalresourcesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://mypersonalresourcesite.com/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Jun 2025 21:56:21 -0700</pubDate>
+      <guid>https://mypersonalresourcesite.com/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&#xA;This site will serve for personal resources&lt;/p&gt;&#xA;&lt;p&gt;Visit My Website (Soon to be linked)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
